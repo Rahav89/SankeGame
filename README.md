@@ -65,3 +65,4 @@ The game features both an AI-controlled snake and a player-controlled snake, eac
 1. The presentation in Canva - https://www.canva.com/design/DAGLNwPNld0/59hMY5capyqALI7jxYhpGA/edit
 2. The presentation video in YouTube - https://www.youtube.com/watch?v=Tw625Ftu9DI&t=9s
 3. The game video in YouTube - https://www.youtube.com/watch?v=L0AygPqDT1I&t=103s
+4. Docs file: https://docs.google.com/document/d/1iDeF7s76IhLPaYmGSJCAkTlMWrIkw0Y2h5DBjchuIaI/edit
